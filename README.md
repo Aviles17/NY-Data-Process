@@ -16,7 +16,7 @@ Proyecto realizado para la asignatura Procesamiento de Datos a Gran Escala. Asig
 
 Tiene como intención el utilizar herramientas tecnicas, como el framework PySpark, el lenguaje de programación Python y la plataforma de Databricks, para asi implementar transformaciones a una serie de datos, para asi encontrar insights utiles para la ciudad de Nueva York, ubicada en Estados Unidos.
 
-#### Contexto General de la Situación en Nueva York
+### Contexto General de la Situación en Nueva York
 Nueva York, uno de los estados más poblados y económicamente influyentes de los Estados Unidos, enfrenta una serie de desafíos socioeconómicos y territoriales. A pesar de ser el hogar de una de las ciudades más prósperas y vibrantes del mundo, Nueva York también experimenta disparidades significativas en términos de ingresos, acceso a la educación, seguridad pública y calidad de vida en diferentes regiones del estado.
 
 ### Indicadores Macroecómicos de Interés:
