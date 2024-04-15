@@ -1,10 +1,14 @@
 #Procesamiento de Datos a Gran Escala - Proyecto NY
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Javeriana.svg/1200px-Javeriana.svg.png)
+![](https://www.javeriana.edu.co/recursosdb/20129/601896/escudo-footer.png)
 
 ## Tabla de Contenidos
 
-[TOC]
+- [Introducción](#introducción)
+- [Datos utilizados](#datos-utilizados)
+- [Autores](#autores)
+- [Dirección del proyecto](#dirección-del-proyecto)
+- [Aclaraciones y/o Responsabilidades](#aclaraciones-y/o-Responsabilidades)
 
 ## Introducción
 
