@@ -8,13 +8,25 @@
 - [Datos utilizados](#datos-utilizados)
 - [Autores](#autores)
 - [Dirección del proyecto](#dirección-del-proyecto)
-- [Aclaraciones y/o Responsabilidades](#aclaraciones-y/o-Responsabilidades)
+- [Aclaraciones y/o Responsabilidades](#aclaraciones-y-Responsabilidades)
 
 ## Introducción
 
 Proyecto realizado para la asignatura Procesamiento de Datos a Gran Escala. Asignatura presente para los programas de Ciencia de Datos e Ingenieria de Sistemas de la Pontificia Universidad Javeriana. 
 
 Tiene como intención el utilizar herramientas tecnicas, como el framework PySpark, el lenguaje de programación Python y la plataforma de Databricks, para asi implementar transformaciones a una serie de datos, para asi encontrar insights utiles para la ciudad de Nueva York, ubicada en Estados Unidos.
+
+#### Contexto General de la Situación en Nueva York
+Nueva York, uno de los estados más poblados y económicamente influyentes de los Estados Unidos, enfrenta una serie de desafíos socioeconómicos y territoriales. A pesar de ser el hogar de una de las ciudades más prósperas y vibrantes del mundo, Nueva York también experimenta disparidades significativas en términos de ingresos, acceso a la educación, seguridad pública y calidad de vida en diferentes regiones del estado.
+
+### Indicadores Macroecómicos de Interés:
+- Datos de arrestos en Nueva York.
+- Datos de pobreza en Nueva York.
+- Datos de accidentes viales en Nueva York.
+- Datos de niveles de educación en Nueva York.
+
+### Objetivo del Negocio
+El objetivo del equipo de consultoría contratado por el estado de Nueva York es desarrollar un plan de acción basado en el procesamiento de datos para mejorar los indicadores territoriales de interés para el gobierno. Esto incluye identificar áreas de oportunidad para abordar desigualdades socioeconómicas, mejorar la calidad de vida de los residentes y promover un desarrollo sostenible en todo el estado. El plan de acción debe aprovechar el análisis de datos para informar la toma de decisiones estratégicas y la asignación eficiente de recursos gubernamentales.
 
 ## Datos utilizados
 
@@ -50,6 +62,6 @@ Bajo la asesoria del Ingeniero PhD. Jhon Jairo Corredor Franco
 </table>
 
 
-## Aclaraciones y/o Responsabilidades
+## Aclaraciones y Responsabilidades
 
 Cabe resaltar que este proyecto se realizo con fines **puramente academicos**, por lo cual, se reserva cualquier opinión acerca del uso de la tecnica WebScrapping, ademas cualquier llave usada para la  consulta de APIs  pueden estar inhabilitadas al momento de consulta. Asimismo la información contenida dentro de este repositorio, puede encontrarse desactualizada al momento de consulta.
